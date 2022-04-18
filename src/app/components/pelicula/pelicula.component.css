@@ -26,12 +26,11 @@ a {
     width: 300px;
     padding: 10px;
     background-color:cadetblue;
-    margin-bottom: 100px;
-    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
     float:left;
     height: 760px;
 }
 .card img{
     width: 100%;
-    
 }
